@@ -5,7 +5,6 @@ Collect, process, and analyze log data using Amazon Kinesis and Elasticsearch Se
 ![image](https://user-images.githubusercontent.com/48589838/77059467-fae1d280-69fc-11ea-97aa-fd2ebe57f712.png)
 
 
-
 ##  Step 1: Set Up Prerequisites
 
 
