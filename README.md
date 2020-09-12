@@ -9,7 +9,6 @@ Collect, process, and analyze log data using Amazon Kinesis and Elasticsearch Se
 ##  Step 1: Set Up Prerequisites
 
 
-
  Create an AWS Account
 
  Start an EC2 Instance
